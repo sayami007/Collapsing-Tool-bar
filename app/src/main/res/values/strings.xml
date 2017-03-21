@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Annotation</string>
+    <string name="collapsing_toolbar">Hello world</string>
+    <string name="long_latin">long</string>
+</resources>

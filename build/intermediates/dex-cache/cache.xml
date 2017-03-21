@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Bibesh/.android/build-cache/48c406f54694db4e210c5899535baf789eecd011/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/Bibesh/Documents/AndroidAnnotation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8d4eba75823f4cc7dcffe246c9be223a1a99786/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bibesh/.android/build-cache/890d9936600433ba2aa7beca9e5d729b30b13102/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/Bibesh/Documents/AndroidAnnotation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79c8b28efb586d392aa42a0afe78e70e9c057411/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bibesh/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations-api/4.2.0/ffe21dbedaf7bf1ae281227a3a476a74f0459f19/androidannotations-api-4.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffe21dbedaf7bf1ae281227a3a476a74f0459f19">
+        <dex dex="/Users/Bibesh/Documents/AndroidAnnotation/app/build/intermediates/transforms/dex/debug/folders/1000/10/androidannotations-api-4.2.0_04e3ca6cbda4f655a0c644ee35abcc77c6260709/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bibesh/.android/build-cache/f023689c86299e0b317f7246a322873ddd02f979/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/Bibesh/Documents/AndroidAnnotation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_000204e987f18fb0a69dbbb4dab0460dc9f1a533/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bibesh/Documents/AndroidAnnotation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd3827324adff9c26d7253328c1eb55727a2aa13">
+        <dex dex="/Users/Bibesh/Documents/AndroidAnnotation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_124275223d47dd7506d7e569e536df262dd78e63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Bibesh/Documents/AndroidAnnotation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/Bibesh/Documents/AndroidAnnotation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0eb6c63b36842712590ce7a32d77f4f383acae24/classes.dex" />
+    </item>
+
+</items>
